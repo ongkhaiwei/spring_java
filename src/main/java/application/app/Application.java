@@ -52,6 +52,6 @@ public class Application extends SpringBootServletInitializer {
                 .withSampler(samplerConfig)
                 .withReporter(reporterConfig).getTracer();
     }
-    
+    // New comment
     // Additional changes
 }
