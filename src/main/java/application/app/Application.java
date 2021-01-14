@@ -53,8 +53,5 @@ public class Application extends SpringBootServletInitializer {
                 .withReporter(reporterConfig).getTracer();
     }
     
-    // Trigger changes
-    // New changes
-    // Another changes
     // Additional changes
 }
