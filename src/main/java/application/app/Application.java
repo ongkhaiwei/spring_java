@@ -54,5 +54,4 @@ public class Application extends SpringBootServletInitializer {
     }
     
     // Additional changes
-    // Comment Webhook
 }
