@@ -54,5 +54,6 @@ public class Application extends SpringBootServletInitializer {
     }
     
     // Trigger changes
+    // New changes
     // Additional changes
 }
